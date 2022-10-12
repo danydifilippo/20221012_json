@@ -1,0 +1,76 @@
+{
+    "scuola":"Epicode",
+    "classe":"Full Stack Developer 05-22",
+    "insegnanti":[
+        {
+            "nome":"Eric Camilleri",
+            "ruolo":"teacher"
+        },
+        {
+            "nome":"Lidia Kovac",
+            "ruolo":"teaching Assistant"
+        }
+    ],
+    "Alunni": [
+        {
+            "nome": "Daniela Di Filippo"
+        },
+        {
+            "nome": "Nicola Lerra"
+        },
+        {
+            "nome": "Bruno Stano"
+        },
+        {
+            "nome": "Mattia Landolfo"
+        },
+        {
+            "nome": "Simone Ponzani"
+        },
+        {
+            "nome": "Giovanni Urso"
+        },
+        {
+            "nome": "Antonino Chindemi"
+        },
+        {
+            "nome": "Luca Senatore"
+        },
+        {
+            "nome": "Dimitri Lazuka"
+        },
+        {
+            "nome": "Andrea Savignano"
+        },
+        {
+            "nome": "Luigi Crisci"
+        },
+        {
+            "nome": "Aras Pourbijan"
+        },
+        {
+            "nome": "Gaia Filippi"
+        },
+        {
+            "nome": "Roberto Daabbicco"
+        },
+        {
+            "nome": "Ilde Stramandinoli"
+        },
+        {
+            "nome": "Crisiano Maria Aliotta"
+        },
+        {
+            "nome": "Luigi Indaco"
+        },
+        {
+            "nome": "Lamberto Martini"
+        },
+        {
+            "nome": "Stefano Laguda"
+        },
+        {
+            "nome": "Giuseppe Di Pisa"
+        }
+    ]
+}

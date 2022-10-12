@@ -1,0 +1,71 @@
+{
+    "titolo":"Stranger Things",
+    "stagioni":"4",
+    "primaUscita":"15 luglio 2016",
+    "autori": [
+        {
+            "nome":"Matt Duffer"
+        },
+        {
+            "nome":"Ross Duffer"
+        }
+    ],
+    "personaggi": [
+        {
+            "nome":"Undici",
+            "interprete":"Millie Bobby Brown"
+        },
+        {
+            "nome":"Max Mayfield",
+            "interprete":"Sadie Sink"
+        },
+        {
+            "nome":"Eddie Munson",
+            "interprete":"Joseph Quinn"
+        },
+        {
+            "nome":"Billy Hargrove",
+            "interprete":"Dacre Montgomery"
+        },
+        {
+            "nome":"Steve Harrinton",
+            "interprete":"Joe Keery"
+        },
+        {
+            "nome":"Will Byers",
+            "interprete":"Noah Schnapp"
+        },
+        {
+            "nome":"Dustin Henderson",
+            "interprete":"Gaten Matarazzo"
+        },
+        {
+            "nome":"Michael Wheeler",
+            "interprete":"Finn Wolfhard"
+        },
+        {
+            "nome":"Robin Buckley",
+            "interprete":"Maya Thurman-Hawke"
+        },
+        {
+            "nome":"Nancy Wheeler",
+            "interprete":"Natalia Dyer"
+        },
+        {
+            "nome":"Jim Hopper",
+            "interprete":"David Harbour"
+        },
+        {
+            "nome":"Lucas Sinclair",
+            "interprete":"Caleb McLaughlin"
+        },
+        {
+            "nome":"Jonathan Byers",
+            "interprete":"Charlie Heaton"
+        },
+        {
+            "nome":"Joyce Byers",
+            "interprete":"Winona Ryder"
+        }
+    ]
+}
